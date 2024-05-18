@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>005511N 1043134E.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline4">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline6">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>005511N 1043134E</name>
+		<open>1</open>
+		<Placemark>
+			<name>60NM TANJUNGPINANG TMA SOUTH</name>
+			<open>1</open>
+			<styleUrl>#inline5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					105.5033361943148,0.6442591538099283
+					105.4770154029286,0.5607991242792559
+					105.4435223082406,0.4799499487754139
+					105.4031118275873,0.4023266664453641
+					105.3560914230234,0.328519785689077
+					105.3028187791243,0.2590907986738147
+					105.2436991010832,0.1945679138074728
+					105.1791820520169,0.1354420385423244
+					105.1097583511875,0.08216304319692072
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>60NM TANJUNGPINANG TMA</name>
+			<styleUrl>#inline3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					105.5375413261333,0.903885084378278
+					105.533715070671,0.8164571316053655
+					105.5222842361701,0.7296951371109923
+					105.5033361943148,0.6442591538099283
+					105.4770154029286,0.5607991242792559
+					105.4435223082406,0.4799499487754139
+					105.4031118275873,0.4023266664453641
+					105.3560914230234,0.328519785689077
+					105.3028187791243,0.2590907986738147
+					105.2436991010832,0.1945679138074728
+					105.1791820520169,0.1354420385423244
+					105.1097583511875,0.08216304319692072
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>30NM TANJUNGPINANG TMA</name>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					105.0163419901463,1.03295487038229
+					105.025759884555,0.9904515525808334
+					105.0314369258541,0.9472892829251819
+					105.0333300588879,0.9037965469113365
+					105.0314250178606,0.8603043317200624
+					105.0257364303463,0.8171436087098504
+					105.0163077022911,0.7746428163903052
+					105.0032106849765,0.733125362911783
+					104.9865451265118,0.6929071669556441
+					104.9664379120015,0.6542942556220909
+					104.9430420980907,0.6175804374906838
+					104.91653574911,0.5830450684743227
+					104.8871205835205,0.5509509274034085
+					104.8550204407843,0.5215422174665255
+					104.8204795801456,0.4950427087015771
+					104.7837608240997,0.4716540356820692
+					104.7451435605243,0.4515541633834584
+					104.7049216185597,0.4348960329515279
+					104.6634010343195,0.4218063977371341
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>30NM TANJUNGPINANG SOUTH CTR</name>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					105.0163419901463,1.03295487038229
+					105.025759884555,0.9904515525808334
+					105.0314369258541,0.9472892829251819
+					105.0333300588879,0.9037965469113365
+					105.0314250178606,0.8603043317200624
+					105.0257364303463,0.8171436087098504
+					105.0163077022911,0.7746428163903052
+					105.0032106849765,0.733125362911783
+					104.9865451265118,0.6929071669556441
+					104.9664379120015,0.6542942556220909
+					104.9430420980907,0.6175804374906838
+					104.91653574911,0.5830450684743227
+					104.8871205835205,0.5509509274034085
+					104.8550204407843,0.5215422174665255
+					104.8204795801456,0.4950427087015771
+					104.7837608240997,0.4716540356820692
+					104.7451435605243,0.4515541633834584
+					104.7049216185597,0.4348960329515279
+					104.6634010343195,0.4218063977371341
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

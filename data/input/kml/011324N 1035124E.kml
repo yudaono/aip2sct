@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>011324N 1035124E.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Pangkalpinang</name>
+		<open>1</open>
+		<Placemark>
+			<name>90NM PANGKALPINANG TMA</name>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					104.6411200605404,-0.05266579189069832
+					104.5269388105586,-0.1161752965858764
+					104.4076579609701,-0.1694946529845555
+					104.284184615447,-0.2122180448598877
+					104.1574579054288,-0.244020267250693
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>90NM UPKP</name>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					103.1434865751454,-0.09389580625067828
+					103.0314037878728,-0.02673933661483904
+					102.9255984219659,0.04992717452211438
+					102.8268747918072,0.135520395296545
+					102.7359832789602,0.2293891641731167
+					102.6536146781354,0.3308194593271425
+					102.5803950061523,0.4390398384494292
+					102.5168808088309,0.5532273062393346
+					102.4635549962937,0.6725135642504598
+					102.420823232844,0.7959915955711128
+					102.3890109034693,0.922722535024162
+					102.3683606751291,1.051742774118734
+					102.3590306673335,1.182071248838711
+					102.3610932430711,1.312716857472055
+					102.374534427864,1.442685955038719
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>90NM PEKANBARU TMA</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					103.8975773530828,-0.2740090553373014
+					103.7669314365804,-0.2718738527253725
+					103.6369685899028,-0.2583628404721756
+					103.5086775684238,-0.2335788809801086
+					103.3830343374608,-0.1977106512531421
+					103.2609946141819,-0.1510311914646409
+					103.1434865751454,-0.09389580625067828
+					103.0314037878728,-0.02673933661483904
+					102.9255984219659,0.04992717452211438
+					102.8268747918072,0.135520395296545
+					102.7359832789602,0.2293891641731167
+					102.6536146781354,0.3308194593271425
+					102.5803950061523,0.4390398384494292
+					102.5168808088309,0.5532273062393346
+					102.4635549962937,0.6725135642504598
+					102.420823232844,0.7959915955711128
+					102.3890109034693,0.922722535024162
+					102.3683606751291,1.051742774118734
+					102.3590306673335,1.182071248838711
+					102.3610932430711,1.312716857472055
+					102.374534427864,1.442685955038719
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>90NM UPKU</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					103.1434865751454,-0.09389580625067828
+					103.0314037878728,-0.02673933661483904
+					102.9255984219659,0.04992717452211438
+					102.8268747918072,0.135520395296545
+					102.7359832789602,0.2293891641731167
+					102.6536146781354,0.3308194593271425
+					102.5803950061523,0.4390398384494292
+					102.5168808088309,0.5532273062393346
+					102.4635549962937,0.6725135642504598
+					102.420823232844,0.7959915955711128
+					102.3890109034693,0.922722535024162
+					102.3683606751291,1.051742774118734
+					102.3590306673335,1.182071248838711
+					102.3610932430711,1.312716857472055
+					102.374534427864,1.442685955038719
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

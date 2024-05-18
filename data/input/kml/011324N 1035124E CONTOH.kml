@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>011324N 1035124E CONTOH.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline3">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline4">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>PANGKALPINANG</name>
+		<open>1</open>
+		<Placemark>
+			<name>PANGKALPINANG TMA</name>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					105.2866942446816,0.2420653043373564,0
+					105.2266774082377,0.1776061522890574,0
+					105.1612721496401,0.1186219564392624,0
+					105.09097594205,0.06556151387594369,0
+					105.4915936096077,0.6280802135855228,0
+					105.4644327087216,0.5442988489677562,0
+					105.4300747326476,0.4632027629099097,0
+					105.3887811658351,0.3854088726509282,0
+					105.3408661766026,0.3115089857121942,0
+					105.2866942446816,0.2420653043373564,0
+					
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PANGKALPINANG TMA SOUTH</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<coordinates>
+					105.2866942446816,0.2420653043373564,0
+					105.2266774082377,0.1776061522890574,0
+					105.1612721496401,0.1186219564392624,0
+					105.09097594205,0.06556151387594369,0
+					105.4915936096077,0.6280802135855228,0
+					105.4644327087216,0.5442988489677562,0
+					105.4300747326476,0.4632027629099097,0
+					105.3887811658351,0.3854088726509282,0
+					105.3408661766026,0.3115089857121942,0
+					105.2866942446816,0.2420653043373564,0
+					
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

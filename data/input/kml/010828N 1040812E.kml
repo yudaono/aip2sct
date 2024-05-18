@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BTM.kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>BTM</name>
+		<open>1</open>
+		<Placemark>
+			<name>27NM TANJUNGPINANG SOUTH CTR</name>
+			<styleUrl>#inline</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					104.585321186225,1.115466072720242
+					104.5813616445211,1.076478378299246
+					104.5740188143225,1.037984044263295
+					104.5633486890133,1.000275994759546
+					104.5494325665462,0.9636411620278946
+					104.5323764289371,0.9283583046206445
+					104.5123101347121,0.8946958878601332
+					104.4893864303964,0.862910042583537
+					104.4637797884866,0.8332426176412979
+					104.4356850806392,0.8059193409178576
+					104.4053160960543,0.7811481028347408
+					104.3729039162063,0.7591173753812466
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>27NM TANJUNGPINANG NORTH CTR</name>
+			<styleUrl>#inline</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					104.585321186225,1.115466072720242
+					104.5813616445211,1.076478378299246
+					104.5740188143225,1.037984044263295
+					104.5633486890133,1.000275994759546
+					104.5494325665462,0.9636411620278946
+					104.5323764289371,0.9283583046206445
+					104.5123101347121,0.8946958878601332
+					104.4893864303964,0.862910042583537
+					104.4637797884866,0.8332426176412979
+					104.4356850806392,0.8059193409178576
+					104.4053160960543,0.7811481028347408
+					104.3729039162063,0.7591173753812466
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
