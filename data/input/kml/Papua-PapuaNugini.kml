@@ -31,10 +31,8 @@
 			<styleUrl>#inline0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
-				<coordinates>
-					140.930556,-6.467778
-					140.870278,-6.604167
-					140.898333,-6.842222
+				<coordinates> 
+					140.930556,-6.467778,0 140.870278,-6.604167,0 140.898333,-6.842222,0
 				</coordinates>
 			</LineString>
 		</Placemark>
