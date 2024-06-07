@@ -36,3 +36,14 @@ def dec_degminsec_identifier(coordinate):
         identLon = "W"
     
     return identLat, identLon
+
+def coordinate_dec_degminsec_converter(data):
+    coordinate = data.split(",")
+
+    idLat, idLon = dec_degminsec_identifier(coordinate)
+    latDeg, latMnt, latSec = dec_degminsec_converter(coordinate[1])
+    lonDeg, lonMnt, lonSec = dec_degminsec_converter(coordinate[0])
+
+    coordinates = [f"{idLat}{int(latDeg):03}.{int(latMnt):02}.{latSec:06.3f}", f"{idLon}{int(lonDeg):03}.{int(lonMnt):02}.{lonSec:06.3f}"]
+
+    return coordinates

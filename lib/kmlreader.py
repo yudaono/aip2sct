@@ -26,7 +26,7 @@ def read_kml_placemark(fileCoordinate: str, placemarkArea: str):
             continue
         # Extract coordinates
         coordinates_node = placemark.LineString.coordinates
-        coordinates = [coord.strip().split(',') for coord in coordinates_node.text.strip().split('\n')]
+        coordinates = [coord.strip().split(',') for coord in coordinates_node.text.strip().split(' ')]
 
     return coordinates
 
