@@ -3,11 +3,11 @@ from src.commands.sectorborderline.process import *
 from lib.kmlreader import write_kml
 
 def getSectorBorderLine(nameInput: str):
-    with open('data/temp/json/fullBorder.json', 'r') as file:
+    with open('data/temp/json/fullBorderEarth.json', 'r') as file:
         sectorsData = json.load(file)
     
     borderData, newSectorsData = line_bordering_process(sectorsData)
-    fileWrite = open("data/temp/test/outputSCTBorderline.txt", "w")
+    fileWrite = open("data/temp/test/outputSCTTest.txt", "w")
 
     dataOuterJson = json_to_sct_lines(newSectorsData)
     fileWriteOuter = open("data/temp/test/outputSCT_checkerOuter.txt", "w")

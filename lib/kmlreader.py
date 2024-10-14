@@ -1,6 +1,7 @@
 from pykml import parser
 from pykml.factory import KML_ElementMaker as KML
 from lxml import etree
+from lib.aipreader import append_json
 
 import json
 
@@ -29,6 +30,29 @@ def read_kml_placemark(fileCoordinate: str, placemarkArea: str):
         coordinates = [coord.strip().split(',') for coord in coordinates_node.text.strip().split(' ')]
 
     return coordinates
+
+def read_kml_sector_area(fileName: str):
+    with open((fileName + ".kml"), "r") as f:
+        doc = parser.parse(f)
+
+    root = doc.getroot()
+
+    namespaces = {'kml': 'http://www.opengis.net/kml/2.2'}
+
+    placemarks = root.findall('.//kml:Placemark', namespaces)
+    data = []
+
+    for placemark in placemarks:
+        coordinates = []
+        sector_name = placemark.name.text
+        coordinate_node = placemark.LineString.coordinates
+        coordinates_path = [coord.strip().split(',') for coord in coordinate_node.text.strip().split(' ')]
+        for coordinate in coordinates_path:
+            coordinates.append(str(coordinate[0])+","+str(coordinate[1])+",0"+"\n")
+
+        append_json(sector_name, coordinates, data)
+    
+    return data
 
 def write_kml(JSONName, outputName, inputName):
     with open((JSONName + ".json"), "r") as f:

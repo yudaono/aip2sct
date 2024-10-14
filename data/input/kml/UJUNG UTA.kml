@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>UJUNG UTA</name>
+	<open>1</open>
+	<Document>
+		<name>AMBON UTA</name>
+		<StyleMap id="inline100">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline20</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline50</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline20">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline50">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>AMBON UTA</name>
+			<styleUrl>#inline100</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					129.38333333333,-0.93333333333333,0 132.01666666667,-3.6666666666667,0 134.46666666667,-7.149999999999999,0 126.83333333333,-9.3333333333333,0 125.83583333333,-10.093333333333,0 123,-8.766666666666699,0 120.68333333333,-6.2666666666667,0 127.21666666667,-1.9666666666667,0 129.38333333333,-0.93333333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BALI UTA</name>
+		<StyleMap id="inline1000">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline200</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline500</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline200">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline500">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BALI UTA</name>
+			<styleUrl>#inline1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					112.76666666667,-7.4333333333333,0 113.68333333333,-6.2166666666667,0 114.73333333333,-6.083333333333299,0 116.33333333333,-7.7833333333333,0 116.33333333333,-8.783333333333299,0 115.18333333333,-8.766666666666699,0 114.16666666667,-9.383333333333301,0 113.71666666667,-8.6833333333333,0 112.86666666667,-7.6666666666667,0 112.76666666667,-7.4333333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BALIKPAPAN UTA</name>
+		<StyleMap id="inline1001">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline201</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline501</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline201">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline501">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BALIKPAPAN UTA</name>
+			<styleUrl>#inline1001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					113.58333333333,1.2166666666667,0 113.607222,1.247583,0 113.623642,1.244722,0 113.625083,1.214833,0 113.658164,1.210528,0 113.701364,1.258806,0 113.809136,1.301667,0 113.825531,1.328472,0 113.815667,1.366000,0 113.969833,1.446306,0 114.143525,1.463917,0 114.211503,1.410389,0 114.239364,1.446333,0 114.374169,1.491250,0 114.396942,1.520083,0 114.541192,1.433639,0 114.588142,1.452194,0 114.612472,1.504917,0 114.610611,1.568389,0 114.680222,1.625194,0 114.710281,1.678833,0 114.697692,1.811861,0 114.719558,1.835389,0 114.714447,1.857750,0 114.734414,1.871417,0 114.790725,1.853083,0 114.812942,1.895028,0 114.872917,1.922111,0 114.843614,1.966833,0 114.882697,2.030722,0 114.848944,2.042250,0 114.804694,2.024361,0 114.785278,2.056944,0 114.805222,2.067611,0 114.805694,2.101417,0 114.781503,2.138861,0 114.780944,2.195222,0 114.811303,2.264972,0 114.912169,2.261056,0 114.956253,2.284444,0 114.943275,2.326639,0 114.958886,2.370472,0 114.993278,2.350917,0 115.020583,2.364528,0 115.042861,2.408083,0 115.089281,2.407750,0 115.091081,2.436278,0 115.127250,2.474667,0 115.193803,2.475556,0 115.237306,2.511139,0 115.235864,2.533250,0 115.207778,2.539667,0 115.206581,2.563833,0 115.164169,2.610861,0 115.123694,2.584222,0 115.085442,2.607278,0 115.109336,2.653111,0 115.089333,2.701139,0 115.131919,2.740861,0 115.149697,2.793444,0 115.089058,2.823333,0 115.148247,2.877222,0 115.161667,2.930500,0 115.248025,2.974972,0 115.285889,3.050889,0 115.320861,3.014500,0 115.326806,2.981778,0 115.401222,2.987889,0 115.429581,3.018528,0 115.477914,3.022306,0 115.503914,3.043500,0 115.517281,3.113139,0 115.561806,3.159528,0 115.516358,3.201972,0 115.541611,3.359667,0 115.584892,3.449111,0 115.607086,3.444556,0 115.617553,3.408806,0 115.648697,3.439639,0 115.604614,3.511778,0 115.609664,3.542806,0 115.574219,3.606389,0 115.569336,3.656139,0 115.574142,3.744472,0 115.615028,3.874917,0 115.577775,3.887861,0 115.559472,3.917917,0 115.639136,3.971861,0 115.702806,4.197139,0 115.751525,4.217028,0 115.769417,4.247250,0 115.815361,4.231250,0 115.823639,4.263389,0 115.869531,4.298944,0 115.876219,4.389806,0 115.907417,4.391167,0 115.933944,4.355944,0 115.997169,4.350389,0 116.065553,4.277083,0 116.104447,4.325083,0 116.155525,4.346778,0 116.163444,4.389278,0 116.268417,4.363083,0 116.350944,4.390917,0 116.429475,4.325778,0 116.437364,4.288278,0 116.487275,4.332861,0 116.535836,4.328056,0 116.536500,4.376861,0 116.566803,4.407889,0 116.588058,4.376639,0 116.610053,4.376194,0 116.625778,4.339917,0 116.666694,4.352444,0 116.699586,4.338333,0 116.735497,4.358028,0 116.747025,4.389917,0 116.786056,4.345139,0 116.810167,4.351139,0 116.834472,4.327917,0 116.906136,4.369806,0 116.965469,4.339111,0 117.001747,4.346361,0 117.014556,4.320472,0 117.036111,4.344889,0 117.096053,4.334417,0 117.151253,4.353472,0 117.193969,4.339472,0 117.238778,4.373806,0 117.292725,4.312722,0 117.364472,4.288778,0 117.428781,4.233583,0 117.436447,4.199917,0 117.464858,4.178000,0 117.524558,4.164972,0 117.585808,4.177528,0 117.878286,4.181475,0 118,4,0 121.25,4,0 119.51666666667,-0.033333333333333,0 119.55,-5.0166666666667,0 114.76666666667,-3.8666666666667,0 111.35,-1.7166666666667,0 113.58333333333,1.2166666666667,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>MAKASSAR UTA</name>
+		<StyleMap id="inline1002">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline202</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline502</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline202">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline502">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>MAKASSAR UTA</name>
+			<styleUrl>#inline1002</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					114.76666666667,-3.8666666666667,0 119.55,-5.0166666666667,0 120.68333333333,-6.2666666666667,0 123,-8.766666666666699,0 116.33333333333,-8.783333333333299,0 116.33333333333,-7.7833333333333,0 114.73333333333,-6.083333333333299,0 113.68333333333,-6.2166666666667,0 114.76666666667,-3.8666666666667,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>MANADO UTA</name>
+		<StyleMap id="inline1003">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline203</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline503</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline203">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline503">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>MANADO UTA</name>
+			<styleUrl>#inline1003</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					121.25,4,0 132.53333333333,4,0 133,3.5,0 133.93333333333,3.5,0 133.93333333333,1.2666666666667,0 129.38333333333,-0.93333333333333,0 127.21666666667,-1.9666666666667,0 120.68333333333,-6.2666666666667,0 119.55,-5.0166666666667,0 119.51666666667,-0.033333333333333,0 121.25,4,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>PANGKALAN BUN UTA</name>
+		<StyleMap id="inline1004">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline204</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline504</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline204">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline504">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>PANGKALAN BUN UTA</name>
+			<styleUrl>#inline1004</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					110.38333333333,-3,0 111.35,-1.7166666666667,0 114.76666666667,-3.8666666666667,0 113.68333333333,-6.2166666666667,0 112.76666666667,-7.4333333333333,0 112.33333333333,-6.366666666666701,0 110.38333333333,-4.8833333333333,0 110.38333333333,-3,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>NUSA TENGGARA UTA</name>
+		<StyleMap id="inline1005">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline205</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline505</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline205">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline505">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>NUSA TENGGARA UTA</name>
+			<styleUrl>#inline1005</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					110.77638888889,-8.6833333333333,0 113.71666666667,-8.6833333333333,0 114.16666666667,-9.383333333333301,0 115.18333333333,-8.766666666666699,0 116.33333333333,-8.783333333333299,0 123,-8.766666666666699,0 125.83583333333,-10.093333333333,0 123.33333333333,-12,0 114.5,-12,0 110.90388888889,-8.796944444444399,0 110.77638888889,-8.6833333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>PAPUA UTA</name>
+		<StyleMap id="inline1006">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline206</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline506</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline206">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline506">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>PAPUA UTA</name>
+			<styleUrl>#inline1006</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					133.93333333333,3.5,0 141,3.5,0 141.000000,-6.320556,0 140.930556,-6.467778,0 140.870278,-6.604167,0 140.898333,-6.842222,0 141.018333,-6.892778,0 141.033333,-9.616667,0 141,-9.8333333333333,0 139.68333333333,-9.8333333333333,0 135,-7,0 134.46666666667,-7.149999999999999,0 132.01666666667,-3.6666666666667,0 129.38333333333,-0.93333333333333,0 133.93333333333,1.2666666666667,0 133.93333333333,3.5,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>SURABAYA UTA</name>
+		<StyleMap id="inline1007">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline207</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline507</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline207">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline507">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>SURABAYA UTA</name>
+			<styleUrl>#inline1007</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					110.38333333333,-4.8833333333333,0 112.33333333333,-6.366666666666701,0 112.76666666667,-7.4333333333333,0 112.86666666667,-7.6666666666667,0 113.71666666667,-8.6833333333333,0 110.77638888889,-8.6833333333333,0 110.38333333333,-8.3333333333333,0 110.38333333333,-4.8833333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

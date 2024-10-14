@@ -1,0 +1,230 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>UJUNG UTA_BORDER.kml</name>
+    <StyleMap>
+      <id>inline</id>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#inline1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#inline2</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style>
+      <id>inline1</id>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style>
+      <id>inline2</id>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>UJUNG UTA_BORDER</name>
+      <Placemark>
+        <name>AMBON UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>123,-8.766666666666699,0
+120.68333333333,-6.2666666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>AMBON UTA-A</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>120.68333333333,-6.2666666666667,0
+127.21666666667,-1.9666666666667,0
+129.38333333333,-0.93333333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>AMBON UTA-GARA UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>125.83583333333,-10.093333333333,0
+123,-8.766666666666699,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>AMBON UTA-</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>129.38333333333,-0.93333333333333,0
+132.01666666667,-3.6666666666667,0
+134.46666666667,-7.149999999999999,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALI UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>113.68333333333,-6.2166666666667,0
+114.73333333333,-6.083333333333299,0
+116.33333333333,-7.7833333333333,0
+116.33333333333,-8.783333333333299,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALI UTA- BUN UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>112.76666666667,-7.4333333333333,0
+113.68333333333,-6.2166666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALI UTA-GARA UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>116.33333333333,-8.783333333333299,0
+115.18333333333,-8.766666666666699,0
+114.16666666667,-9.383333333333301,0
+113.71666666667,-8.6833333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALI UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>113.71666666667,-8.6833333333333,0
+112.86666666667,-7.6666666666667,0
+112.76666666667,-7.4333333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALIKPAPAN UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>119.55,-5.0166666666667,0
+114.76666666667,-3.8666666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALIKPAPAN UTA-A</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>121.25,4,0
+119.51666666667,-0.033333333333333,0
+119.55,-5.0166666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>BALIKPAPAN UTA- BUN UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>114.76666666667,-3.8666666666667,0
+111.35,-1.7166666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MAKASSAR UTA-A</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>119.55,-5.0166666666667,0
+120.68333333333,-6.2666666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MAKASSAR UTA- BUN UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>113.68333333333,-6.2166666666667,0
+114.76666666667,-3.8666666666667,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MAKASSAR UTA-GARA UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>123,-8.766666666666699,0
+116.33333333333,-8.783333333333299,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MANADO UTA-</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>133.93333333333,3.5,0
+133.93333333333,1.2666666666667,0
+129.38333333333,-0.93333333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PANGKALAN BUN UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>112.76666666667,-7.4333333333333,0
+112.33333333333,-6.366666666666701,0
+110.38333333333,-4.8833333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>NUSA TENGGARA UTA-UTA</name>
+        <Snippet/>
+        <styleUrl>#inline</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>110.77638888889,-8.6833333333333,0
+113.71666666667,-8.6833333333333,0
+</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

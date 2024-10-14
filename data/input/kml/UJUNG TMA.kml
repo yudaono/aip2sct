@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>UJUNG TMA</name>
+	<visibility>0</visibility>
+	<Document>
+		<name>UJUNG PANDANG U TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline100">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline20</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline50</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline20">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline50">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>UJUNG PANDANG U TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline100</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					120.789722,-2.869722,0 121.826945,-6.035832999999999,0 121.721621,-6.243671,0 121.478224,-6.605065999999999,0 121.207805,-6.889905,0 120.821252,-7.175412,0 120.345164,-7.396762,0 119.963056,-7.495229999999999,0 119.570029,-7.53293,0 119.219443,-7.514627,0 118.790532,-7.423792,0 118.345403,-7.239988999999999,0 117.944211,-6.975023999999999,0 117.63012,-6.671963,0 117.396871,-6.356455000000001,0 117.216376,-6.008534,0 117.158333,-5.862221999999999,0 116.261945,-5.377222,0 117.183333,-3.616667,0 118.038889,-2.863889,0 118.711945,-2.6625,0 119.0496,-2.587949,0 119.43896,-2.54376,0 119.830449,-2.560787,0 120.172491,-2.627009,0 120.542044,-2.757324,0 120.789722,-2.869722,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>UJUNG PANDANG M TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1000">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline200</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline500</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline200">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline500">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>UJUNG PANDANG M TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					119.526189,-3.3722673858385,0 119.78782057515,-3.392726543036599,0 120.04299948823,-3.453602814001901,0 120.28543423771,-3.553404835388501,0 120.50915117773,-3.6896874733317,0 120.70864250142,-3.8591114160531,0 120.87900167459,-4.0575244320629,0 121.01604302703,-4.2800622493754,0 121.11640282473,-4.5212665857268,0 121.17761976919,-4.7752175195346,0 121.19819344852,-5.0356771271326,0 121.17761976919,-5.2962411085094,0 121.11640282473,-5.5504949653857,0 121.01604302703,-5.7921711704858,0 120.87900167459,-6.015303672534201,0 120.70864250142,-6.214376026039401,0 120.50915117773,-6.3844594370871,0 120.28543423771,-6.5213371022862,0 120.04299948823,-6.6216114157997,0 119.78782057515,-6.682790952353601,0 119.526189,-6.7033546141615,0 119.26455742485,-6.682790952353601,0 119.00937851177,-6.6216114157997,0 118.76694376229,-6.5213371022862,0 118.54322682227,-6.3844594370871,0 118.34373549858,-6.214376026039401,0 118.17337632541,-6.015303672534201,0 118.03633497297,-5.7921711704858,0 117.93597517527,-5.5504949653857,0 117.87475823081,-5.2962411085094,0 117.85418455148,-5.0356771271326,0 117.87475823081,-4.7752175195346,0 117.93597517527,-4.5212665857268,0 118.03633497297,-4.2800622493754,0 118.17337632541,-4.0575244320629,0 118.34373549858,-3.8591114160531,0 118.54322682227,-3.6896874733317,0 118.76694376229,-3.553404835388501,0 119.00937851177,-3.453602814001901,0 119.26455742485,-3.392726543036599,0 119.526189,-3.3722673858385,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>UJUNG PANDANG B TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1001">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline201</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline501</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline201">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline501">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>UJUNG PANDANG B TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1001</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					119.526189,-4.0384848315031,0 119.68314000967,-4.0507706441152,0 119.83622411407,-4.0873266700745,0 119.98167011471,-4.1472560197032,0 120.11589576304,-4.2290881829109,0 120.23559616013,-4.3308148625188,0 120.33782509447,-4.4499389101175,0 120.42006732362,-4.5835351797802,0 120.48030007762,-4.7283218373717,0 120.51704236354,-4.8807404236936,0 120.52939096671,-5.037042770339,0 120.51704236354,-5.1933827083437,0 120.48030007762,-5.3459103914473,0 120.42006732362,-5.4908669783925,0 120.33782509447,-5.6246773839039,0 120.23559616013,-5.7440388190428,0 120.11589576304,-5.8460029031458,0 119.98167011471,-5.9280492465909,0 119.83622411407,-5.988148580440799,0 119.68314000967,-6.024813747570401,0 119.526189,-6.037137168496901,0 119.36923799033,-6.024813747570401,0 119.21615388593,-5.988148580440799,0 119.07070788529,-5.9280492465909,0 118.93648223696,-5.8460029031458,0 118.81678183987,-5.7440388190428,0 118.71455290553,-5.6246773839039,0 118.63231067638,-5.4908669783925,0 118.57207792238,-5.3459103914473,0 118.53533563646,-5.1933827083437,0 118.52298703329,-5.037042770339,0 118.53533563646,-4.8807404236936,0 118.57207792238,-4.7283218373717,0 118.63231067638,-4.5835351797802,0 118.71455290553,-4.4499389101175,0 118.81678183987,-4.3308148625188,0 118.93648223696,-4.2290881829109,0 119.07070788529,-4.1472560197032,0 119.21615388593,-4.0873266700745,0 119.36923799033,-4.0507706441152,0 119.526189,-4.0384848315031,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>AMBON TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1002">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline202</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline502</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline202">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline502">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>AMBON TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1002</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.186061,-1.9493753858385,0 128.44720105225,-1.9698492840523,0 128.701900604,-2.030768341769,0 128.94388000301,-2.130637026443,0 129.16717683871,-2.2670037075302,0 129.3662936438,-2.4365208807184,0 129.53633307444,-2.6350272225264,0 129.67311728216,-2.8576493534898,0 129.77328880466,-3.0989207545105,0 129.8343909238,-3.3529149406642,0 129.85492601599,-3.6133897405537,0 129.8343909238,-3.8739393411546,0 129.77328880466,-4.1281506206499,0 129.67311728216,-4.3697601916549,0 129.53633307444,-4.59280850962,0 129.3662936438,-4.791787371948,0 129.16717683871,-4.9617771588344,0 128.94388000301,-5.0985702708669,0 128.701900604,-5.198777427056,0 128.44720105225,-5.259913822058,0 128.186061,-5.2804626141615,0 127.92492094775,-5.259913822058,0 127.670221396,-5.198777427056,0 127.42824199699,-5.0985702708669,0 127.20494516129,-4.9617771588344,0 127.0058283562,-4.791787371948,0 126.83578892556,-4.59280850962,0 126.69900471784,-4.3697601916549,0 126.59883319534,-4.1281506206499,0 126.5377310762,-3.8739393411546,0 126.51719598401,-3.6133897405537,0 126.5377310762,-3.3529149406642,0 126.59883319534,-3.0989207545105,0 126.69900471784,-2.8576493534898,0 126.83578892556,-2.6350272225264,0 127.0058283562,-2.4365208807184,0 127.20494516129,-2.2670037075302,0 127.42824199699,-2.130637026443,0 127.670221396,-2.030768341769,0 127.92492094775,-1.9698492840523,0 128.186061,-1.9493753858385,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BALI TMA EAST</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1003">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline203</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline503</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline203">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline503">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BALI TMA EAST</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1003</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					114.46666666667,-9.3166666666667,0 115.16305555556,-8.7505555555556,0 116.83583333333,-7.785000000000001,0 116.89016005884,-7.8772460387895,0 117.00646482086,-8.1543490432667,0 117.07740590014,-8.446203660788999,0 117.10124731493,-8.7456555604788,0 117.07740590014,-9.0453484213102,0 117.00646482086,-9.3379023934611,0 116.89016005884,-9.616094840649,0 116.73134002156,-9.873039230246301,0 116.53389875773,-10.102357845421,0 116.30268369557,-10.298343858792,0 116.04337938711,-10.456108278409,0 115.7623694434,-10.57170740648,0 115.46657964146,-10.642246783989,0 115.163306,-10.665958156286,0 114.86003235854,-10.642246783989,0 114.86305555556,-10.652777777778,0 114.46666666667,-9.3166666666667,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BALI TMA WEST</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1004">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline204</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline504</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline204">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline504">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BALI TMA WEST</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1004</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					116.83611111111,-7.785000000000001,0 115.16305555556,-8.7505555555556,0 114.46666666667,-9.3166666666667,0 113.61666666667,-8.216666666666701,0 114.41666666667,-7.45,0 114.33444444444,-7.0111111111111,0 114.5642425566,-6.9285167942718,0 114.86003235854,-6.8586778448458,0 115.163306,-6.8352078437143,0 115.46657964146,-6.8586778448458,0 115.7623694434,-6.9285167942718,0 116.04337938711,-7.043025152769799,0 116.30268369557,-7.1994154220415,0 116.53389875773,-7.393878568149,0 116.73134002156,-7.6216747260837,0 116.83611111111,-7.785000000000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BALIKPAPAN TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1005">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline205</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline505</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline205">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline505">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BALIKPAPAN TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1005</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					114.66666666667,-1.1347222222222,0 115.76972222222,-0.055555555555556,0 115.96091187674,0.10181935584885,0 116.1838169636,0.23832562412732,0 116.42537174712,0.33830506203314,0 116.67962429354,0.39929521848536,0 116.74416666667,0.4175,0 117.00222222222,0.4475,0 118.33444444444,0.6025,0 118.71194444444,-2.6625,0 118.03888888889,-2.8638888888889,0 117.18333333333,-3.6166666666667,0 114.66666666667,-1.1347222222222,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BANJARMASIN TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1006">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline206</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline506</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline206">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline506">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BANJARMASIN TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1006</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					117.18333333333,-3.6166666666667,0 116.26194444444,-5.3772222222222,0 115.46666666667,-4.9833333333333,0 113.97666666667,-4.9558333333333,0 112.79361111111,-4.9558333333333,0 113.14166666667,-3.9666666666667,0 113.45611111111,-2.3491666666667,0 113.45583333333,-0.9275,0 114.66666666667,-1.1347222222222,0 114.66666666667,-1.1347222222222,0 117.18333333333,-3.6166666666667,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>BIAK TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1007">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline207</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline507</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline207">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline507">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>BIAK TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1007</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					133.73555555556,0.93527777777778,0 136.35972222222,0.46388888888889,0 136.62792320401,0.39613572921163,0 136.86947280554,0.29615358898131,0 137.09237311151,0.1596439154784,0 137.29113641401,-0.01003181703223,0 137.46087404397,-0.20869679432976,0 137.5974155359,-0.43146213683308,0 137.6974093475,-0.67284732740382,0 137.75840308418,-0.92691475020889,0 137.77890175434,-1.1874150569223,0 137.75840308418,-1.4479399152821,0 137.6974093475,-1.7020785940542,0 137.5974155359,-1.9435747811789,0 137.46087404397,-2.1664800096754,0 137.29113641401,-2.3653000806968,0 137.09237311151,-2.5351309373346,0 136.86947280554,-2.6717805764272,0 136.62792320401,-2.7718738115984,0 136.37367611282,-2.8329370386005,0 136.113,-2.8534606141615,0 135.86027777778,-2.8477777777778,0 133.55833333333,-2.3841666666667,0 133.73555555556,0.93527777777778,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>GORONTALO TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1008">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline208</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline508</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline208">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline508">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>GORONTALO TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1008</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					120.6075,1.3611111111111,0 122.52861111111,2.2919444444444,0 124.24138888889,-0.58111111111111,0 122.13611111111,-1.6008333333333,0 120.6075,1.3611111111111,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>JAYAPURA TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline1009">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline209</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline509</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline209">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline509">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>JAYAPURA TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline1009</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					141,-0.97083333333333,0 141,-4.1733333333333,0 140.77755137727,-4.2233916103971,0 140.516667,-4.2439296141615,0 140.25578262273,-4.2233916103971,0 140.00133241998,-4.1622865176083,0 139.7595898804,-4.0621280948652,0 139.53651157037,-3.9253963514894,0 139.33758957884,-3.7554745348658,0 139.16771646904,-3.5565635700157,0 139.03106602073,-3.333576419284,0 138.93099243376,-3.0920152979416,0 138.8699500436,-2.8378350179017,0 138.84943502339,-2.5772959479666,0 138.8699500436,-2.3168101958859,0 138.93099243376,-2.0627846596803,0 139.03106602073,-1.8214645853452,0 139.16771646904,-1.5987812198484,0 139.33758957884,-1.4002070664664,0 139.53651157037,-1.2306221275122,0 139.7595898804,-1.0941943426884,0 140.00133241998,-0.99427718118445,0 140.25578262273,-0.93332700554722,0 140.516667,-0.91284238583851,0 140.77755137727,-0.93332700554721,0 141,-0.97083333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>KENDARI TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10010">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2010</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5010</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2010">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5010">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>KENDARI TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10010</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					120.78972222222,-2.8697222222222,0 121.93222222222,-2.4847222222222,0 122.19155162527,-2.4306475138169,0 122.452833,-2.4101783858385,0 122.71411437473,-2.4306475138169,0 122.96895175229,-2.4915527259499,0 123.21106207356,-2.5913998397553,0 123.43447969761,-2.7277393282201,0 123.63370418429,-2.8972263392494,0 123.80383554737,-3.09570249215,0 123.94069368942,-3.3182973544502,0 124.04091934489,-3.559547071354701,0 124.10205447867,-3.8135272798296,0 124.12260066545,-4.0739971804624,0 124.10205447867,-4.3345514471487,0 124.04091934489,-4.5887765103865,0 123.94069368942,-4.8304076417919,0 123.80383554737,-5.0534831911922,0 123.63370418429,-5.2524922899458,0 123.43447969761,-5.4225123521107,0 123.21106207356,-5.5593328033093,0 122.97444444444,-5.6666666666667,0 121.82694444444,-6.0358333333333,0 120.78972222222,-2.8697222222222,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>KUPANG TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10011">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2011</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5011</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2011">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5011">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>KUPANG TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10011</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.117767,-9.878527,0 123.333333,-12,0 122.473504,-11.985447,0 122.22812,-11.802834,0 122.011413,-11.588426,0 121.827587,-11.346462,0 121.680168,-11.081713,0 121.571943,-10.79938,0 121.504913,-10.504993,0 121.480262,-10.204303,0 121.498348,-9.903162,0 121.558703,-9.607417999999999,0 121.66005,-9.322796,0 121.800338,-9.054797000000001,0 121.976785,-8.808586,0 122.185933,-8.588903,0 122.423717,-8.399971000000001,0 122.6181,-8.280658000000001,0 125.226013,-8.254293000000001,0 125.206366,-8.275852,0 125.206366,-8.275852,0 125.201696,-8.281449,0 125.197125,-8.287126000000001,0 125.192654,-8.292881,0 125.188285,-8.298712999999999,0 125.18402,-8.304619000000001,0 125.17986,-8.310598000000001,0 125.175805,-8.316648000000001,0 125.171858,-8.322766,0 125.168019,-8.328951999999999,0 125.164289,-8.335203,0 125.16067,-8.341518000000001,0 125.157164,-8.347894,0 125.15377,-8.354329999999999,0 125.15049,-8.360823,0 125.147324,-8.367372,0 125.144275,-8.373974,0 125.141343,-8.380628,0 125.138528,-8.387332000000001,0 125.135832,-8.394083,0 125.133255,-8.400880000000001,0 125.130799,-8.407719999999999,0 125.128463,-8.414602,0 125.126249,-8.421523000000001,0 125.124158,-8.428481,0 125.12219,-8.435473999999999,0 125.120345,-8.442500000000001,0 125.118624,-8.449555999999999,0 125.117028,-8.456642,0 125.115557,-8.463753000000001,0 125.114212,-8.470890000000001,0 125.112993,-8.478047999999999,0 125.1119,-8.485226000000001,0 125.110935,-8.492421999999999,0 125.110096,-8.499632999999999,0 125.109384,-8.506857999999999,0 125.1088,-8.514094,0 125.106399,-8.534145000000001,0 125.100833,-9.450832999999999,0 126.117745,-9.878518,0 126.117767,-9.878527,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>MANADO TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10012">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2012</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5012</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2012">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5012">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>MANADO TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10012</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					122.52833333333,2.2919444444444,0 124.25694444444,3.080833333333299,0 125.4,3.1533333333333,0 127.03444444444,2.6702777777778,0 126.17555555556,-0.55138888888889,0 124.24138888889,-0.58111111111111,0 122.52833333333,2.2919444444444,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>PALU TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10013">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2013</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5013</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2013">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5013">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>PALU TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10013</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					118.334445,0.6025,0 120.6075,1.361111,0 122.136389,-1.601111,0 120.172491,-2.627009,0 119.830449,-2.560787,0 119.43896,-2.54376,0 119.0496,-2.587949,0 118.711945,-2.6625,0 118.334445,0.6025,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>PANGKALAN BUN TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10014">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2014</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5014</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2014">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5014">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>PANGKALAN BUN TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10014</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					112.12944444444,-0.69916666666667,0 113.45583333333,-0.9275,0 113.45611111111,-2.3491666666667,0 113.14166666667,-3.9666666666667,0 112.79388888889,-4.9561111111111,0 110.38333333333,-4.9561111111111,0 110.38333333333,-3,0 112.12944444444,-0.69916666666667,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>SORONG TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10015">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2015</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5015</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2015">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5015">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>SORONG TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10015</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					129.18333333333,1.8086111111111,0 129.18333333333,-1.5833333333333,0 133.55833333333,-2.3841666666667,0 133.73555555556,0.93527777777778,0 129.18333333333,1.8086111111111,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>SURABAYA TMA EAST</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10016">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2016</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5016</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2016">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5016">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>SURABAYA TMA EAST</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10016</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					112.79361111111,-4.9558333333333,0 113.97666666667,-4.9558333333333,0 114.33444444444,-7.0111111111111,0 114.41666666667,-7.45,0 113.61666666667,-8.216666666666701,0 113.26194444444,-7.831111111111101,0 113.2,-7.766666666666701,0 112.93333333333,-7.6666666666667,0 112.77111111111,-7.3738888888889,0 112.79361111111,-4.9558333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>SURABAYA TMA WEST</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10017">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2017</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5017</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2017">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5017">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>SURABAYA TMA WEST</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10017</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					110.383333,-5,0 110.383333,-4.956025,0 112.793805,-4.956025,0 112.793805,-4.956025,0 112.771227,-7.373968,0 112.933333,-7.666667,0 112.933333,-7.666667,0 112.25,-7.666667,0 112.166667,-7.45,0 112.1027,-7.4312,0 111.383333,-7.216667000000001,0 111.2,-7.216667000000001,0 111.05529,-7.377358,0 111.05529,-7.377358,0 111.049934,-7.365161000000001,0 111.035935,-7.339641,0 111.019783,-7.315481,0 111.001274,-7.292398,0 110.981102,-7.271338,0 110.958938,-7.251925999999999,0 110.935265,-7.234548,0 110.909912,-7.219122,0 110.883484,-7.206168,0 110.856697,-7.195669,0 110.828209,-7.187342,0 110.799095,-7.181463,0 110.770378,-7.178165,0 110.740601,-7.177369,0 110.710922,-7.179196,0 110.682175,-7.183406,0 110.653526,-7.190264999999999,0 110.625503,-7.199609999999999,0 110.598892,-7.211106,0 110.5727,-7.225047,0 110.548508,-7.241010999999999,0 110.525123,-7.259365,0 110.503693,-7.279555999999999,0 110.48423,-7.301372,0 110.466644,-7.324868,0 110.451309,-7.349695999999999,0 110.43811,-7.375931,0 110.433433,-7.387645,0 110.383408,-7.383524,0 110.383408,-7.383524,0 110.383333,-6.723056,0 110.383333,-5.479167,0 110.383781,-5.084588,0 110.383333,-5,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>TERNATE TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10018">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2018</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5018</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2018">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5018">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>TERNATE TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10018</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.03444444444,2.6702777777778,0 129.18333333333,1.8086111111111,0 129.18333333333,-1.5833333333333,0 126.17555555556,-0.55138888888889,0 127.03444444444,2.6702777777778,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>TIMIKA TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10019">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2019</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5019</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2019">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5019">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>TIMIKA TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10019</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					134.47861111111,-5.0502777777778,0 136.52611111111,-3.053055555555599,0 138.99166666667,-5.7261111111111,0 137.94916666667,-6.9341666666667,0 134.47861111111,-5.0502777777778,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>TARAKAN B TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10020">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2020</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5020</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2020">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5020">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>TARAKAN B TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10020</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					117.561639,3.825274,0 117.639937,3.819119,0 117.716307,3.800806,0 117.788869,3.770787,0 117.855834,3.729802,0 117.915555,3.678861,0 117.96656,3.619219999999999,0 118.007595,3.552351,0 118.03765,3.479899,0 118.055983,3.403651,0 118.062145,3.325485,0 118.055983,3.247324,0 118.03765,3.171094,0 118.007595,3.098671,0 117.96656,3.031836,0 117.915555,2.972235,0 117.855834,2.921333,0 117.788869,2.880383,0 117.716307,2.850392,0 117.639937,2.832097,0 117.561639,2.825948,0 117.483341,2.832097,0 117.406971,2.850392,0 117.334409,2.880383,0 117.267444,2.921333,0 117.207723,2.972235,0 117.156718,3.031836,0 117.115683,3.098671,0 117.085628,3.171094,0 117.067295,3.247324,0 117.061133,3.325485,0 117.067295,3.403651,0 117.085628,3.479899,0 117.115683,3.552351,0 117.156718,3.619219999999999,0 117.207723,3.678861,0 117.267444,3.729802,0 117.334409,3.770787,0 117.406971,3.800806,0 117.483341,3.819119,0 117.561639,3.825274,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>TARAKAN U TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10021">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2021</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5021</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2021">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5021">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>TARAKAN U TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10021</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					119.0875,4,0 119.129431,3.893946999999999,0 119.148381,3.838954000000001,0 119.209464,3.584751,0 119.229993,3.324205,0 119.209464,3.063727,0 119.148381,2.809724,0 119.04824,2.568439,0 118.911497,2.3458,0 118.74151,2.147274,0 118.542454,1.977738,0 118.319226,1.841354,0 118.077321,1.741472,0 117.822699,1.680544,0 117.561639,1.660068,0 117.502222,1.651945,0 117.343889,0.4872219999999999,0 117.002222,0.4475,0 117.171945,1.697222,0 116.990886,1.760374,0 116.804052,1.841354,0 116.580824,1.977738,0 116.381768,2.147274,0 116.211781,2.3458,0 116.075038,2.568439,0 116.049521,2.620649,0 115.995,2.756111,0 115.501389,3.040833,0 115.517281,3.113139,0 115.561806,3.159528,0 115.516358,3.201972,0 115.541611,3.359667,0 115.584892,3.449111,0 115.607086,3.444556,0 115.617553,3.408806,0 115.648697,3.439639000000001,0 115.604614,3.511778,0 115.609664,3.542806,0 115.574219,3.606389,0 115.569336,3.656139,0 115.574142,3.744472,0 115.615028,3.874917,0 115.577775,3.887861,0 115.559472,3.917917,0 115.639136,3.971861,0 115.702806,4.197139,0 115.751525,4.217028,0 115.769417,4.24725,0 115.815361,4.23125,0 115.823639,4.263389,0 115.869531,4.298944,0 115.876219,4.389806,0 115.907417,4.391167,0 115.933944,4.355944,0 115.997169,4.350389,0 116.065553,4.277083,0 116.104447,4.325083,0 116.155525,4.346778,0 116.163444,4.389278,0 116.268417,4.363083,0 116.350944,4.390917,0 116.429475,4.325778,0 116.437364,4.288278,0 116.487275,4.332861,0 116.535836,4.328056,0 116.5365,4.376861,0 116.566803,4.407889,0 116.588058,4.376639,0 116.610053,4.376194,0 116.625778,4.339917,0 116.666694,4.352444,0 116.699586,4.338333,0 116.735497,4.358028,0 116.747025,4.389917,0 116.786056,4.345139,0 116.810167,4.351139,0 116.834472,4.327917,0 116.906136,4.369806,0 116.965469,4.339111,0 117.001747,4.346361,0 117.014556,4.320472,0 117.036111,4.344889,0 117.096053,4.334417,0 117.151253,4.353472,0 117.193969,4.339472,0 117.238778,4.373806,0 117.292725,4.312722,0 117.364472,4.288778,0 117.428781,4.233583,0 117.436447,4.199917,0 117.464858,4.178,0 117.524558,4.164972,0 117.585808,4.177528,0 117.878286,4.181475,0 118,4,0 119.0875,4,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>TARAKAN M TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10022">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2022</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5022</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2022">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5022">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>TARAKAN M TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10022</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					118.328491,3.967649,0 118.371503,3.912649,0 118.453566,3.778875,0 118.513667,3.633948,0 118.550329,3.481438,0 118.562651,3.325105000000001,0 118.550329,3.168796,0 118.513667,3.016359,0 118.453566,2.871543,0 118.371503,2.73791,0 118.269497,2.618746,0 118.150058,2.516979,0 118.016126,2.43511,0 117.870997,2.375152,0 117.718247,2.338577,0 117.561639,2.326285,0 117.405031,2.338577,0 117.252281,2.375152,0 117.107152,2.43511,0 116.97322,2.516979,0 116.853781,2.618746,0 116.751775,2.73791,0 116.669712,2.871543,0 116.609611,3.016359,0 116.572949,3.168796,0 116.560627,3.325105000000001,0 116.572949,3.481438,0 116.609611,3.633948,0 116.669712,3.778875,0 116.751775,3.912649,0 116.853781,4.03197,0 116.97322,4.133894,0 117.107152,4.215904,0 117.219242,4.264606,0 117.364472,4.288778,0 117.428781,4.233583,0 117.436447,4.199917,0 117.464858,4.178,0 117.524558,4.164972,0 117.585808,4.177528,0 117.878286,4.181475,0 118,4,0 118.328491,4,0 118.328491,3.967649,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>MERAUKE TMA</name>
+		<visibility>0</visibility>
+		<StyleMap id="inline10023">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#inline2023</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#inline5023</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="inline2023">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="inline5023">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>MERAUKE TMA</name>
+			<visibility>0</visibility>
+			<styleUrl>#inline10023</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					138.99166666667,-5.7261111111111,0 141,-5.7261111111111,0 141,-6.320555555555601,0 141,-6.320556,0 140.930556,-6.467778,0 140.870278,-6.604167,0 140.898333,-6.842222,0 141.018333,-6.892777999999999,0 141.01833333333,-6.8927777777778,0 141.03333333333,-9.616666666666699,0 141,-9.8333333333333,0 139.68333333333,-9.8333333333333,0 137.94916666667,-8.790555555555599,0 137.94916666667,-6.9341666666667,0 138.99166666667,-5.7261111111111,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>
